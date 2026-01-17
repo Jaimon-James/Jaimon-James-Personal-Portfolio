@@ -24,12 +24,12 @@ This is a personal portfolio website for Jaimon James, a Data Analyst. The portf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Jaimon-James/Jaimon-James---Personal-Portfolio.git
+   git clone https://github.com/Jaimon-James/Jaimon-James-Portfolio.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Jaimon-James---Personal-Portfolio
+   cd Jaimon-James-Portfolio
    ```
 
 3. **Open the Portfolio**:
